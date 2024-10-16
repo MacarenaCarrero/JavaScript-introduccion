@@ -3,7 +3,7 @@ function sayHello (name) {
     console.log ('hola ' + name);
 }
 
-sayHello('profe'+ ' '  +  'malvado');
+sayHello('Adrian'+ ' '  +  'malvado');
 
 function calculateSquareArea (side){
     const squareArea = side * 2;

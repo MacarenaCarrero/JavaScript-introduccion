@@ -6,8 +6,7 @@ function sayHello (name) {
 sayHello('Adrian'+ ' '  +  'malvado');
 
 function calculateSquareArea (side){
-    const squareArea = side * 2;
-    console.log (squareArea);
+    console.log (side * side);
 }
 
 calculateSquareArea(10);
